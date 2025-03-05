@@ -1,3 +1,4 @@
 # Intro-to-version-control 
 
-ayo what up
+ayo what up git 
+im dyin
